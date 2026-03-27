@@ -94,7 +94,11 @@ Attracted by the many clinical and economic benefits of this technology, includi
       <!-- all plugins -->
       <script src="js/custom.js"></script>
       <!-- map -->
+<<<<<<< HEAD
     <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNUPWkb4Cjd7Wxo-T4uoUldFjoiUA1fJc&callback=myMap"></script>  -->
      <script src="https://maps.googleapis.com/maps/api/js?key=RESTRICTED_KEY"></script>
+=======
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNUPWkb4Cjd7Wxo-T4uoUldFjoiUA1fJc&callback=myMap"></script>
+>>>>>>> df30618145e321bdc2d70f6e143dfb595ad2082b
    </body>
 </html>
